@@ -1,8 +1,5 @@
 const App = () => {
   return (
-<<<<<<< Updated upstream
-    <div className=''>Hello World</div>
-=======
     <div className='container'>
       <section id="#home">
         <Hero />
@@ -17,7 +14,6 @@ const App = () => {
         <Contact />
       </section>      
     </div>
->>>>>>> Stashed changes
   )
 }
 
