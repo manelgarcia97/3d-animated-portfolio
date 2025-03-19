@@ -1,3 +1,8 @@
+import Contact from "./components/contact/Contact"
+import Hero from "./components/hero/hero"
+import Portfolio from "./components/portfolio/Portfolio"
+import Services from "./components/services/Services"
+
 const App = () => {
   return (
     <div className='container'>
@@ -12,7 +17,7 @@ const App = () => {
       </section>
       <section id="#contact">
         <Contact />
-      </section>      
+      </section>
     </div>
   )
 }
